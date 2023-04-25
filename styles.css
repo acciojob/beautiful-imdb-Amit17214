@@ -1,22 +1,23 @@
 
 /* Your CSS Code here. */
-.moviepic img{
+.moviepic{
 	height:100%;
 	width:100%;
 	opacity:8px;
 }
 
-.movieDetail h1{
+.movieDetail{
 	position:absolute;
-	top:1px;
+	top:140px;
 	width:550px;
-	text-align:center;
-	font-size: 400%;
+	text-align:justify;
+	font-size: 200%;
 }
-.movieDetail p{
+  h1{
 	position:absolute;
-	top:150px;
+	top:0px;
+	margin-top: 2px;
 	width:550px;
-	text-align: justify;
-	font-size:x-large;
+	text-align: center;
+	font-size:70px;
 }
